@@ -1,0 +1,16 @@
+XesKiOS
+===========
+
+Getting Started
+---------------
+
+To get started with Android/XesKiOS, you'll need to get
+familiar with [Git and Repo](http://source.android.com/source/using-repo.html).
+
+To initialize your local repository using the OmegaOS trees, use a command like this:
+
+    repo init -u git://github.com/XesKiOS/platform_manifest.git -b xos-7.1
+
+Then to sync up:
+
+    repo sync -f --force-sync --no-clone-bundle
