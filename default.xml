@@ -31,6 +31,8 @@
   <project name="platform_frameworks_opt_net_ims" path="frameworks/opt/net/ims" remote="xeskios" />
   <project name="platform_frameworks_opt_telephony" path="frameworks/opt/telephony" remote="xeskios" />
   <project name="platform_vendor_xeski" path="vendor/xeski" remote="xeskios" />
+  # Masquerade
+  <project path="packages/apps/masquerade" name="TeamSubstratum/masquerade" remote="github" revision="master" />
 <!-- END XESKI OS -->
 
 <!-- BEGIN AOSP-CAF -->
